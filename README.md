@@ -1,1 +1,1 @@
-# humidity-and-temperature-sdetector-arduino
+# humidity-and-temperature-detector-arduino
