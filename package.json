@@ -1,0 +1,17 @@
+{
+  "name": "display_work",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "express": "^4.18.2",
+    "serialport": "^12.0.0",
+    "serve-static": "^1.15.0"
+  },
+  "description": ""
+}
