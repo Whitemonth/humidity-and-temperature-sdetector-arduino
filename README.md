@@ -1,5 +1,5 @@
 # humidity-and-temperature-detector-arduino
-<<<<<<< HEAD
+
 =======
 
 Arduino+NodeJS Climate Exchange.
@@ -13,4 +13,5 @@ Data refreshing counter is 5s. "delay(5000)";
 ---
 
 Tested on arduino nano.
->>>>>>> master
+
+> > > > > > > master
